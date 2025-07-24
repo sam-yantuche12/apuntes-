@@ -1,0 +1,14 @@
+comandos de linux 
+lo que entendi: grep es un comando para acceder atuverias 
+ls -l ./: que son programas pero son el signo de la plechita recta se esta dirigiendo a tuverias 
+./ aqui donde estoy
+titulo2 
+Stardard input: cuando se ejecuda puede q de 0stdin "que es vacio" y si si hay informacion aparecera stclout"1" y si el comado fallo dara un stderr(da error) "2" es un comando que tiene diverentes salidas , que salio pero tiene diferentes resultados
+titulo 3
+Operadores de contro: se utiza en los comandos para ejecutar un comando de manera ordenada y para seprar los comandos se usa (;)como por ejemplo "ls ; mkdir datos ; ls"
+titulo 4
+operadore sincronicos : esto es un comando para ordenar de manera sincronica y mantiene los mandos en el mismo hilo (&)(&&) ejemplo" mkdir archivo ls && touch index.html && ls"
+titulo 5
+operadores de control (ºº) permite q si un archivo falla siga au crriendo con los demas 
+   
+
